@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+h1 {
+  font-family: 'New Tegomin', 'serif';
+  font-size: 76px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
